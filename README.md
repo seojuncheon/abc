@@ -46,6 +46,10 @@ ORIGIN 연결하기
 ## 8. 링크주소
 <http://www.multicampus.com>
 
+[멀티캠퍼스](www.multicampus.com)
+
+[멀티캠퍼스](www.multicampus.com, "클릭하면 멀티캠퍼스 홈페이지로 이동합니다.")
+
 
 
 
